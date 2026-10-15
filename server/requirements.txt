@@ -1,0 +1,5 @@
+anthropic>=1.14
+fastapi>=0.141
+uvicorn>=0.53
+python-dotenv>=1.1
+pymongo>=4.8,<5

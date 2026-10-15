@@ -1,0 +1,94 @@
+{
+ "89a5e9368001": {
+  "id": "89a5e9368001",
+  "capability": "calendar",
+  "scopes": [
+   "read",
+   "write"
+  ],
+  "granted_at": 1792063253.9846108,
+  "expires_at": 1792066853.9846108,
+  "revoked_at": 1792063256.6703753,
+  "targets": null
+ },
+ "55b97ddf3180": {
+  "id": "55b97ddf3180",
+  "capability": "calendar",
+  "scopes": [
+   "read",
+   "write"
+  ],
+  "granted_at": 1792063259.6683855,
+  "expires_at": 1792149659.6683855,
+  "revoked_at": null,
+  "targets": null
+ },
+ "9253dde11f51": {
+  "id": "9253dde11f51",
+  "capability": "speaker",
+  "scopes": [
+   "speak"
+  ],
+  "granted_at": 1792063262.6937947,
+  "expires_at": 1792066862.6937947,
+  "revoked_at": null,
+  "targets": null
+ },
+ "79b73a879962": {
+  "id": "79b73a879962",
+  "capability": "microphone",
+  "scopes": [
+   "listen"
+  ],
+  "granted_at": 1792063268.2860339,
+  "expires_at": 1792149668.2860339,
+  "revoked_at": null,
+  "targets": null
+ },
+ "22bd9f48fc67": {
+  "id": "22bd9f48fc67",
+  "capability": "camera",
+  "scopes": [
+   "capture"
+  ],
+  "granted_at": 1792063271.0350444,
+  "expires_at": 1792066871.0350444,
+  "revoked_at": 1792063272.0231786,
+  "targets": null
+ },
+ "708c900ef1b0": {
+  "id": "708c900ef1b0",
+  "capability": "camera",
+  "scopes": [
+   "capture"
+  ],
+  "granted_at": 1792063273.9526968,
+  "expires_at": 1792149673.9526968,
+  "revoked_at": null,
+  "targets": null
+ },
+ "b481e851dca1": {
+  "id": "b481e851dca1",
+  "capability": "whatsapp",
+  "scopes": [
+   "send"
+  ],
+  "granted_at": 1792063276.3532636,
+  "expires_at": 1792149676.3532636,
+  "revoked_at": null,
+  "targets": null
+ },
+ "ef8c343f51ef": {
+  "id": "ef8c343f51ef",
+  "capability": "email",
+  "scopes": [
+   "read",
+   "draft",
+   "send"
+  ],
+  "granted_at": 1792063279.585688,
+  "expires_at": 1792149679.585688,
+  "revoked_at": null,
+  "targets": null
+ }
+}
