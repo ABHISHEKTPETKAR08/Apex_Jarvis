@@ -10,3 +10,24 @@ venv/
 local.properties
 *.db
 *.db-journal
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Android generated files
+.gradle/
+**/build/
+local.properties
+
+# Local databases and runtime state
+*.db
+*.db-journal
+server/data/
